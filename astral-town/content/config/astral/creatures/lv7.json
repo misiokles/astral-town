@@ -59,10 +59,10 @@
 				"val" : 100
 			},
 			"fireShield" : {
-    "type" : "COMBAT_EVENT_TRIGGER",
-    "subtype" : "fireShield",
-    "val" : 15,
-    "stacking" : "fireShield"
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "fireShield",
+				"val" : 15,
+				"stacking" : "fireShield"
 			},
 			"KING1" : {
 				"type" : "KING",
