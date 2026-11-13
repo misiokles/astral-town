@@ -6,7 +6,7 @@
 			"name" : "Adonus",
 			"biography" : "nothing yet",
 			"specialty" : {
-				"description" : "{Steam Elementals or Smoke Elementals}\r\n\r\nIncreases Speed of any Steam Elementals or Smoke Elementals by 1 and their Attack and Defense skills by 5% for every 2 levels (rounded up)",
+				"description" : "Increases Speed of any Steam Elementals or Smoke Elementals by 1 and their Attack and Defense skills by 5% for every 2 levels (rounded up)",
 				"tooltip" : "Creature Bonus: Steam Elementals",
 				"name" : "Steam Elementals"
 			}

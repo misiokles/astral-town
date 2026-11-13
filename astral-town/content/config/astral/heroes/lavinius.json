@@ -7,7 +7,7 @@
 			"name" : "Lavina",
 			"biography" : "undetermined",
 			"specialty" : {
-				"description" : "{Sulfur + 1}\r\n\r\nIncreases kingdom's income by 1 Sulfur per day",
+				"description" : "Increases kingdom's income by 1 Sulfur per day",
 				"tooltip" : "+1 Sulfur each day",
 				"name" : "+1 Sulfur"
 			}
@@ -50,7 +50,7 @@
 		"specialty" : {
 			"bonuses" : {
 				"sulfur" : {
-					"subtype" : "resource.sulfur",
+					"subtype" : "sulfur",
 					"type" : "GENERATE_RESOURCE",
 					"val" : 1
 				}

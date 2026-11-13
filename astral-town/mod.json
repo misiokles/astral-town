@@ -7,7 +7,7 @@
 	"modType" : "Town",
 	"changelog" : {
 		"0.5.6" : [
-			"Converted BMP2PNG"
+			"Update to vcmi-1.8 format"
 		],
 		"0.5.5" : [
 			"Update to vcmi-1.7 format"
@@ -40,7 +40,7 @@
 		]
 	},
 	"compatibility" : {
-		"min" : "1.7.0"
+		"min" : "1.8.0"
 	},
 	"factions" : [
 		"config/astral/town/buildings.json",

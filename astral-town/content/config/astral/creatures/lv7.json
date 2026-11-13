@@ -29,8 +29,8 @@
 				"walk" : 1
 			},
 			"map" : "astral/map/lv7Map.def",
-			"iconSmall" : "astral/iconsSmall/lv7m",
-			"iconLarge" : "astral/iconsBig/lv7s",
+			"iconSmall" : "astral/iconsSmall/lv7m.bmp",
+			"iconLarge" : "astral/iconsBig/lv7s.bmp",
 			"timeBetweenFidgets" : 1
 		},
 		"doubleWide" : true,
@@ -59,8 +59,10 @@
 				"val" : 100
 			},
 			"fireShield" : {
-				"type" : "FIRE_SHIELD",
-				"val" : 15
+    "type" : "COMBAT_EVENT_TRIGGER",
+    "subtype" : "fireShield",
+    "val" : 15,
+    "stacking" : "fireShield"
 			},
 			"KING1" : {
 				"type" : "KING",

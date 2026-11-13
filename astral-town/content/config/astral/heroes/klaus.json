@@ -6,7 +6,7 @@
 			"name" : "Klau",
 			"biography" : "nothing yet",
 			"specialty" : {
-				"description" : "{Shield}\r\n\r\nHero can cast the Shield spell with increased effectiveness",
+				"description" : "Casts Shield with effect increased by 3% for every N hero levels, where N is the level of the targeted creature.",
 				"tooltip" : "Spell Bonus: Shield",
 				"name" : "Shield"
 			}
@@ -51,13 +51,7 @@
 		],
 
 		"specialty" : {
-			"bonuses" : {
-				"shield" : {
-					"addInfo" : 0,
-					"subtype" : "spell.shield",
-					"type" : "SPECIAL_PECULIAR_ENCHANT"
-				}
-			}
-		}
+			"spellScalingPercentage" : "shield"
+		},
 	}
 }

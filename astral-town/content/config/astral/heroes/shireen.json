@@ -6,7 +6,7 @@
 			"name" : "Shireen",
 			"biography" : "nothing yet",
 			"specialty" : {
-				"description" : "{Haste}\r\n\r\nHero can cast the Haste spell with increased effectiveness",
+				"description" : "Casts Haste with effect increased by 3 for level 1–2 creatures, by 2 for level 3–4 creatures, and by 1 for level 5–6 creatures.",
 				"tooltip" : "Spell Bonus: Haste",
 				"name" : "Haste"
 			}
@@ -49,13 +49,7 @@
 			"haste"
 		],
 		"specialty" : {
-			"bonuses" : {
-				"haste" : {
-					"addInfo" : 0,
-					"subtype" : "spell.haste",
-					"type" : "SPECIAL_PECULIAR_ENCHANT"
-				}
-			}
+			"spellFixedAdditive" : "haste"
 		}
 	}
 }

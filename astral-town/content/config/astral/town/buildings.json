@@ -114,10 +114,7 @@
 					"description" : "The Town Hall allows you to purchase town structures and earns your kingdom 1000 gold per day.",
 					"cost" : {
 						"gold" : 2500
-					},
-					"requires" : [
-						"tavern"
-					]
+					}
 				},
 				"cityHall" : {
 					"name" : "City Hall",
@@ -143,10 +140,7 @@
 					"description" : "The Capitol earns your kingdom 4000 gold per day.",
 					"cost" : {
 						"gold" : 10000
-					},
-					"requires" : [
-						"castle"
-					]
+					}
 				},
 				"marketplace" : {
 					"name" : "Marketplace",
@@ -163,9 +157,6 @@
 						"ore" : 5,
 						"gold" : 5000
 					},
-					"requires" : [
-						"marketplace"
-					],
 					"produce" : {
 						"mercury" : 1
 					}
@@ -233,9 +224,6 @@
 				"grail" : {
 					"description" : "The Sun increases weekly creature generation by 50 percent, adds 5000 gold per day. All spells can be cast in advanced level at least.",
 					"name" : "Sun",
-					"produce" : {
-						"gold" : 5000
-					},
 					"bonuses" : [
 						{
 							"type" : "MAGIC_SCHOOL_SKILL",
@@ -397,8 +385,8 @@
 					"upgrades" : "dwellingLvl1"
 				},
 				"dwellingUpLvl2" : {
-					"description" : "Upg. The Altar of Salt allow to recruit Salt Elementals.",
-					"name" : "Upg. Altar of Salt",
+					"description" : "The Altar of Salt allow to recruit Salt Elementals.",
+					"name" : "Altar of Salt",
 					"cost" : {
 						"gold" : 1500,
 						"ore" : 5,
@@ -409,8 +397,8 @@
 					"upgrades" : "dwellingLvl2"
 				},
 				"dwellingUpLvl3" : {
-					"description" : "Upg. The Altar of Smoke allows to recruit Smoke Elementals.",
-					"name" : "Upg. Altar of Smoke",
+					"description" : "The Altar of Smoke allows to recruit Smoke Elementals.",
+					"name" : "Altar of Smoke",
 					"cost" : {
 						"gold" : 2000,
 						"ore" : 5,
@@ -419,8 +407,8 @@
 					"upgrades" : "dwellingLvl3"
 				},
 				"dwellingUpLvl4" : {
-					"description" : "Upg. The Altar of Radiance allows to recruit Radiance Elementals.",
-					"name" : "Upg. Altar of Radiance",
+					"description" : "The Altar of Radiance allows to recruit Radiance Elementals.",
+					"name" : "Altar of Radiance",
 					"cost" : {
 						"gold" : 2000,
 						"ore" : 5,
@@ -429,8 +417,8 @@
 					"upgrades" : "dwellingLvl4"
 				},
 				"dwellingUpLvl5" : {
-					"description" : "Upg. The Altar of Ash allows to recruit Ash Elementals.",
-					"name" : "Upg. Altar of Ash",
+					"description" : "The Altar of Ash allows to recruit Ash Elementals.",
+					"name" : "Altar of Ash",
 					"cost" : {
 						"gold" : 1000,
 						"sulfur" : 5

@@ -6,7 +6,7 @@
 			"name" : "Jaeron",
 			"biography" : "undetermined.",
 			"specialty" : {
-				"description" : "{Stone Skin}\r\n\r\nHero can cast the Stone Skin spell with increased effectiveness.",
+				"description" : "Casts Stone Skin with effect increased by 3 for level 1–2 creatures, by 2 for level 3–4 creatures, and by 1 for level 5–6 creatures.",
 				"tooltip" : "Spell Bonus: Stone skin",
 				"name" : "Stone Skin"
 			}
@@ -51,13 +51,7 @@
 		],
 
 		"specialty" : {
-			"bonuses" : {
-				"stoneSkin" : {
-					"addInfo" : 0,
-					"subtype" : "spell.stoneSkin",
-					"type" : "SPECIAL_PECULIAR_ENCHANT"
-				}
-			}
+			"spellFixedAdditive" : "stoneSkin"
 		}
 	}
 }

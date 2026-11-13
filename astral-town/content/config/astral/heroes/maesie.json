@@ -6,7 +6,7 @@
 			"name" : "Maesie",
 			"biography" : "",
 			"specialty" : {
-				"description" : "{Berserk}\r\n\r\nCreatures under Berserk do more damage, depending on relation between Perha's level and creature's level.",
+				"description" : "Creatures under Berserk do more damage, depending on relation between Perha's level and creature's level.",
 				"tooltip" : "Spell Bonus: Berserk",
 				"name" : "Berserk"
 			}
@@ -50,14 +50,7 @@
 		],
 
 		"specialty" : {
-			"bonuses" : {
-				"berserk" : {
-					"subtype" : "spell.berserk",
-					"type" : "SPECIAL_SPELL_LEV",
-					"updater" : "TIMES_HERO_LEVEL",
-					"val" : 3
-				}
-			}
+			"spellFixedAdditive" : "berserk"
 		}
 	}
 }

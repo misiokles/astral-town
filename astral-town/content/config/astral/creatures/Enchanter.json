@@ -28,8 +28,8 @@
 		"graphics" : {
 			"animation" : "astral/battle/Druid.def",
 			"map" : "astral/map/Druid.def",
-			"iconSmall" : "astral/iconsSmall/Druid",
-			"iconLarge" : "astral/iconsBig/Druid",
+			"iconSmall" : "astral/iconsSmall/Druid.bmp",
+			"iconLarge" : "astral/iconsBig/Druid.bmp",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1,

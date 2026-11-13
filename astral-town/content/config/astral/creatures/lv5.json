@@ -30,8 +30,8 @@
 				"walk" : 1
 			},
 			"map" : "astral/map/lv5Map.def",
-			"iconSmall" : "astral/iconsSmall/lv5m",
-			"iconLarge" : "astral/iconsBig/lv5s",
+			"iconSmall" : "astral/iconsSmall/lv5m.bmp",
+			"iconLarge" : "astral/iconsBig/lv5s.bmp",
 			"timeBetweenFidgets" : 1
 		},
 		"growth" : 3,

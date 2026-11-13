@@ -30,8 +30,8 @@
 		"graphics" : {
 			"animation" : "astral/battle/lv4.def",
 			"map" : "astral/map/lv4Map.def",
-			"iconSmall" : "astral/iconsSmall/lv4m",
-			"iconLarge" : "astral/iconsBig/lv4s",
+			"iconSmall" : "astral/iconsSmall/lv4m.bmp",
+			"iconLarge" : "astral/iconsBig/lv4s.bmp",
 			"timeBetweenFidgets" : 1,
 			"animationTime" : {
 				"walk" : 1,

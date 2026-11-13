@@ -8,7 +8,7 @@
 			"biography" : "Drugar result of errors royal alchemists.",
 			"specialty" : {
 				"tooltip" : "+350 Gold per day",
-				"description" : "{Gold}\r\n\r\nIncreases kingdom's income by 350 gold per day.",
+				"description" : "Increases kingdom's income by 350 gold per day.",
 				"name" : "+350 Gold"
 			}
 		},
@@ -47,7 +47,7 @@
 		"specialty" : {
 			"bonuses" : {
 				"gold" : {
-					"subtype" : "resource.gold",
+					"subtype" : "gold",
 					"type" : "GENERATE_RESOURCE",
 					"val" : 350
 				}

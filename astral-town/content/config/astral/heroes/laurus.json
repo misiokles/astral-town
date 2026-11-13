@@ -6,7 +6,7 @@
 			"name" : "Laurus",
 			"biography" : "undetermined.",
 			"specialty" : {
-				"description" : "{Armorer}\r\n\r\nReceives a 5% per level bonus to Armorer skill.",
+				"description" : "Receives a 5% per level bonus to Armorer skill.",
 				"tooltip" : "Secondary Skill Bonus: Armorer",
 				"name" : "Armorer"
 			}

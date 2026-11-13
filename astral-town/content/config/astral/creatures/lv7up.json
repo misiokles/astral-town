@@ -29,8 +29,8 @@
 				"walk" : 1
 			},
 			"map" : "astral/map/lv7upMap.def",
-			"iconSmall" : "astral/iconsSmall/lv7upm",
-			"iconLarge" : "astral/iconsBig/lv7ups",
+			"iconSmall" : "astral/iconsSmall/lv7upm.bmp",
+			"iconLarge" : "astral/iconsBig/lv7ups.bmp",
 			"timeBetweenFidgets" : 1
 		},
 		"doubleWide" : true,
@@ -51,12 +51,16 @@
 				"val" : 1
 			},
 			"rebirth" : {
-				"type" : "REBIRTH",
-				"val" : 20
+    "type" : "COMBAT_EVENT_TRIGGER",
+    "subtype" : "rebirth",
+    "val" : 20,
+    "addInfo" : { "guaranteed" : false }
 			},
 			"fireShield" : {
-				"type" : "FIRE_SHIELD",
-				"val" : 25
+    "type" : "COMBAT_EVENT_TRIGGER",
+    "subtype" : "fireShield",
+    "val" : 25,
+    "stacking" : "fireShield"
 			},
 			"fireBreath" : {
 				"type" : "TWO_HEX_ATTACK_BREATH"

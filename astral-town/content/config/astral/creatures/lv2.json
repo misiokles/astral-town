@@ -29,8 +29,8 @@
 				"walk" : 1
 			},
 			"map" : "astral/map/lv2Map.def",
-			"iconSmall" : "astral/iconsSmall/lv2m",
-			"iconLarge" : "astral/iconsBig/lv2s",
+			"iconSmall" : "astral/iconsSmall/lv2m.bmp",
+			"iconLarge" : "astral/iconsBig/lv2s.bmp",
 			"timeBetweenFidgets" : 1
 		},
 		"growth" : 8,
@@ -56,22 +56,22 @@
 			},
 			"fireShieldVulnerablity" : {
 				"type" : "MORE_DAMAGE_FROM_SPELL",
-				"subtype" : "spell.fireShield",
+				"subtype" : "fireShield",
 				"val" : 100
 			},
 			"infernoVulnerablity" : {
 				"type" : "MORE_DAMAGE_FROM_SPELL",
-				"subtype" : "spell.inferno",
+				"subtype" : "inferno",
 				"val" : 100
 			},
 			"fireballVulnerablity" : {
 				"type" : "MORE_DAMAGE_FROM_SPELL",
-				"subtype" : "spell.fireball",
+				"subtype" : "fireball",
 				"val" : 100
 			},
 			"fireWallVulnerablity" : {
 				"type" : "MORE_DAMAGE_FROM_SPELL",
-				"subtype" : "spell.fireWall",
+				"subtype" : "fireWall",
 				"val" : 100
 			},
 			"immuneToWater" : {

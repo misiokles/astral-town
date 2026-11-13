@@ -7,7 +7,7 @@
 			"name" : "Yurian",
 			"biography" : "undetermined",
 			"specialty" : {
-				"description" : "{Intelligence}\r\n\r\nReceives a 5% per level bonus to Intelligence skill.",
+				"description" : "Receives a 5% per level bonus to Intelligence skill.",
 				"tooltip" : "Secondary Skill Bonus: Intelligence",
 				"name" : "Intelligence"
 			}

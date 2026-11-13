@@ -6,7 +6,7 @@
 			"name" : "Corinthya",
 			"biography" : "nothing yet",
 			"specialty" : {
-				"description" : "{Dao and Dao Sultans}\r\n\r\nIncreases Speed of any Dao or Dao Sultans by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)",
+				"description" : "Increases Speed of any Dao or Dao Sultans by 1 and their Attack and Defense skills by 5% for every 6 levels (rounded up)",
 				"tooltip" : "Creature Bonus: Dao",
 				"name" : "Dao"
 			}

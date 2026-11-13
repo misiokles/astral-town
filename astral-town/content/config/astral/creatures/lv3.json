@@ -28,9 +28,9 @@
 				"idle" : 10,
 				"walk" : 1
 			},
-			"map" : "astral/map/lv3Map.def",
-			"iconSmall" : "astral/iconsSmall/lv3m",
-			"iconLarge" : "astral/iconsBig/lv3s",
+			"map" : "astral/map/lv2Map.def",
+			"iconSmall" : "astral/iconsSmall/lv3m.bmp",
+			"iconLarge" : "astral/iconsBig/lv3s.bmp",
 			"timeBetweenFidgets" : 1
 		},
 		"growth" : 6,

@@ -7,14 +7,14 @@
 			"130px" : "astral/creature-bg-130px"
 		},
 		"name" : "Astral",
-		"nativeTerrain" : "sand",
+		"nativeTerrain" : [ "sand" ],
 		"town" : {
 			"musicTheme" : [
 				"music/astral/theme"
 			],
 			"defaultTavern" : 5,
 			"tavernVideo" : "TAVERN.BIK",
-			"guildBackground" : "TPMAGE",
+			"guildBackground" : "TPMAGE.bmp",
 			"townBackground" : "astral/town-screen/background",
 			"guildWindow" : "astral/town-screen/mage-guild",
 			"hallBackground" : "TPTHBKFR",
@@ -140,22 +140,22 @@
 			"icons" : {
 				"village" : {
 					"normal" : {
-						"small" : "astral/icons/hall-small",
-						"large" : "astral/icons/hall-big"
+						"small" : "astral/icons/hall-small.bmp",
+						"large" : "astral/icons/hall-big.bmp"
 					},
 					"built" : {
-						"small" : "astral/icons/hall-builded-small",
-						"large" : "astral/icons/hall-builded-big"
+						"small" : "astral/icons/hall-builded-small.bmp",
+						"large" : "astral/icons/hall-builded-big.bmp"
 					}
 				},
 				"fort" : {
 					"normal" : {
-						"small" : "astral/icons/fort-small",
-						"large" : "astral/icons/fort-big"
+						"small" : "astral/icons/fort-small.bmp",
+						"large" : "astral/icons/fort-big.bmp"
 					},
 					"built" : {
-						"small" : "astral/icons/fort-builded-small",
-						"large" : "astral/icons/fort-builded-big"
+						"small" : "astral/icons/fort-builded-small.bmp",
+						"large" : "astral/icons/fort-builded-big.bmp"
 					}
 				}
 			},

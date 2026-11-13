@@ -6,7 +6,7 @@
 			"name" : "Gavinus",
 			"biography" : "nothing yet.",
 			"specialty" : {
-				"description" : "{Diplomacy}\r\n\r\nStarts with advanced Diplomacy.",
+				"description" : "Starts with advanced Diplomacy.",
 				"tooltip" : "Secondary Skill Bonus: Diplomacy",
 				"name" : "Diplomacy"
 			}

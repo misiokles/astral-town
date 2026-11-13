@@ -29,8 +29,8 @@
 				"walk" : 1
 			},
 			"map" : "astral/map/lv6Map.def",
-			"iconSmall" : "astral/iconsSmall/lv6m",
-			"iconLarge" : "astral/iconsBig/lv6s",
+			"iconSmall" : "astral/iconsSmall/lv6m.bmp",
+			"iconLarge" : "astral/iconsBig/lv6s.bmp",
 			"timeBetweenFidgets" : 1
 		},
 		"growth" : 2,
