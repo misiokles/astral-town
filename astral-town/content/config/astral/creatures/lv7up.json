@@ -51,16 +51,18 @@
 				"val" : 1
 			},
 			"rebirth" : {
-    "type" : "COMBAT_EVENT_TRIGGER",
-    "subtype" : "rebirth",
-    "val" : 20,
-    "addInfo" : { "guaranteed" : false }
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "rebirth",
+				"val" : 20,
+				"addInfo" : {
+					"guaranteed" : false
+				}
 			},
 			"fireShield" : {
-    "type" : "COMBAT_EVENT_TRIGGER",
-    "subtype" : "fireShield",
-    "val" : 25,
-    "stacking" : "fireShield"
+				"type" : "COMBAT_EVENT_TRIGGER",
+				"subtype" : "fireShield",
+				"val" : 25,
+				"stacking" : "fireShield"
 			},
 			"fireBreath" : {
 				"type" : "TWO_HEX_ATTACK_BREATH"

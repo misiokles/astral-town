@@ -395,7 +395,7 @@
 			{
 				"bonus" : {
 					"type" : "SPELL_DAMAGE_REDUCTION",
-					"subtype" : "fire" 
+					"subtype" : "fire"
 				},
 				"values" : [
 					0,
@@ -411,7 +411,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:bless" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:bless"
+					}
+				},
 				"values" : [
 					0,
 					1,
@@ -578,7 +584,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:bless" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:bless"
+					}
+				},
 				"values" : [
 					0,
 					1,
@@ -722,7 +734,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:airShield" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:airShield"
+					}
+				},
 				"values" : [
 					1,
 					1,
@@ -920,7 +938,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:airShield" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:airShield"
+					}
+				},
 				"values" : [
 					1,
 					1,
@@ -1118,7 +1142,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:fireShield" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:fireShield"
+					}
+				},
 				"values" : [
 					1,
 					1,
@@ -1297,7 +1327,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:fireShield" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:fireShield"
+					}
+				},
 				"values" : [
 					1,
 					1,
@@ -1493,7 +1529,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:protectEarth" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:protectEarth"
+					}
+				},
 				"values" : [
 					0,
 					1,
@@ -1708,7 +1750,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:protectEarth" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:protectEarth"
+					}
+				},
 				"values" : [
 					0,
 					1,
@@ -2298,7 +2346,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:mirth" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:mirth"
+					}
+				},
 				"values" : [
 					1,
 					1,
@@ -2313,7 +2367,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:fortune" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:fortune"
+					}
+				},
 				"values" : [
 					1,
 					1,
@@ -2494,7 +2554,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:mirth" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:mirth"
+					}
+				},
 				"values" : [
 					1,
 					1,
@@ -2509,7 +2575,13 @@
 				]
 			},
 			{
-				"bonus" : { "type" : "COMBAT_EVENT_TRIGGER", "subtype" : "enchanted", "addInfo" : { "spell" : "core:fortune" } },
+				"bonus" : {
+					"type" : "COMBAT_EVENT_TRIGGER",
+					"subtype" : "enchanted",
+					"addInfo" : {
+						"spell" : "core:fortune"
+					}
+				},
 				"values" : [
 					1,
 					1,
